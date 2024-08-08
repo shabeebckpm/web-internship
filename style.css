@@ -1,0 +1,12 @@
+.navbar-nav .nav-link {
+    color: darkgreen !important; /* Dark green color */
+    font-size: 1.2em; /* Increase font size */
+}
+
+.navbar-brand {
+    font-size: 1.2em; /* Increase font size for the brand as well */
+}
+
+.nav-link:hover {
+    color: #005000 !important; /* Darker shade of green on hover */
+}
